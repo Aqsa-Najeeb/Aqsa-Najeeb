@@ -1,8 +1,11 @@
 # Aqsa Najeeb
 
-Full-stack developer in progress — building with React, Tailwind, and C# / ASP.NET Core.  
-Also exploring game dev and systems programming with C++.
+Focused on Systems Programming and Full Stack development.
 
+*Learning C++ in depth (core concepts, memory, problem-solving, game dev)
+*Building responsive interfaces using React and Tailwind CSS
+*Comfortable with multiple languages: C, C++, Java, C#, Python
+*Interested in systems programming, game development, and software engineering
 ---
 
 ### Tech Stack
