@@ -2,10 +2,10 @@
 
 Focused on Systems Programming and Full Stack development.
 
-*Learning C++ in depth (core concepts, memory, problem-solving, game dev)
-*Building responsive interfaces using React and Tailwind CSS
-*Comfortable with multiple languages: C, C++, Java, C#, Python
-*Interested in systems programming, game development, and software engineering
+- Learning C++ in depth (core concepts, memory, problem-solving, game dev)
+- Building responsive interfaces using React and Tailwind CSS
+- Comfortable with multiple languages: C, C++, Java, C#, Python
+- Interested in systems programming, game development, and software engineering
 ---
 
 ### Tech Stack
@@ -28,5 +28,6 @@ Focused on Systems Programming and Full Stack development.
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aqsa-Najeeb&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqsa-Najeeb&layout=compact&theme=default&hide_border=true" height="150"/>
+ <p align="center"> 
+ <img src="https://github-readme-stats.vercel.app/api?username=Aqsa-Najeeb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="150"/> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqsa-Najeeb&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="150"/> </p> 
