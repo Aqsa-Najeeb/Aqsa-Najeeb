@@ -29,7 +29,5 @@ Focused on Systems Programming and Full Stack development.
 ### GitHub Stats
 
  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aqsa-Najeeb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqsa-Najeeb&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-    <img src="https://streak-stats.demolab.com?user=Aqsa-Najeeb&theme=tokyonight&hide_border=true" height="150"/>
+    <img src="https://streak-stats.demolab.com?user=Aqsa-Najeeb&theme=tokyonight&hide_border=true" height="350"/>
 </p>
