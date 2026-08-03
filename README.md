@@ -4,13 +4,14 @@
   </a>
 </p>
 
+---
+
 Focused on Systems Programming and Full Stack development.
 
 - Learning C++ in depth (core concepts, memory, problem-solving, game dev)
 - Building web interfaces using HTML, CSS and Javascript
 - Comfortable with multiple languages: C, C++, Java, C#, Python
 - Interested in systems programming, game development, and software engineering
----
 
 ### Tech Stack
 
@@ -26,7 +27,6 @@ Focused on Systems Programming and Full Stack development.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
 
 ### GitHub Stats
 <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Aqsa-Najeeb&layout=compact&theme=tokyonight&title_color=4f46e5&icon_color=4f46e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
