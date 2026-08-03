@@ -1,4 +1,8 @@
-# Aqsa Najeeb
+<p align="center">
+  <a href="https://github.com/Aqsa-Najeeb">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=442&text=Aqsa%20Najeeb" alt="Aqsa Najeeb" />
+  </a>
+</p>
 
 Focused on Systems Programming and Full Stack development.
 
@@ -25,7 +29,11 @@ Focused on Systems Programming and Full Stack development.
 ---
 
 ### GitHub Stats
+<img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Aqsa-Najeeb&layout=compact&theme=tokyonight&title_color=4f46e5&icon_color=4f46e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
- <p align="center">
-    <img src="https://streak-stats.demolab.com?user=Aqsa-Najeeb&theme=tokyonight&hide_border=true" height="350"/>
+### Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aqsa-Najeeb&bg_color=00000000&color=4f46e5&line=4f46e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
