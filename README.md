@@ -29,7 +29,7 @@ Focused on Systems Programming and Full Stack development.
 
 
 ### GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aqsa-Najeeb&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Aqsa-Najeeb&theme=tokyonight)](https://git.io/streak-stats)
 
 ### Contribution Graph
 
