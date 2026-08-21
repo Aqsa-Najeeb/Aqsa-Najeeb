@@ -28,8 +28,12 @@ Focused on Systems Programming and Full Stack development.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
+
 ### GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Aqsa-Najeeb&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Aqsa-Najeeb&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+
+<img height="250" width= "360" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Aqsa-Najeeb&layout=compact&theme=tokyonight&title_color=4f46e5&icon_color=4f46e5&hide_border=true&bg_color=00000000&langs_count=10" alt="top langs" />
 
 ### Contribution Graph
 
