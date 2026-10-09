@@ -6,12 +6,12 @@
 
 ---
 
-Focused on Systems Programming and Full Stack development.
+Focused on secure Software development, Systems programming, and Cybersecurity.
 
-- Learning C++ in depth (core concepts, memory, problem-solving, game dev)
-- Building web interfaces using HTML, CSS and Javascript
-- Comfortable with multiple languages: C, C++, Java, C#, Python
-- Interested in systems programming, game development, and software engineering
+- Building projects with C++, Java, C#, Python, and web technologies
+- Strengthening foundations in DSA, memory management, and software design
+- Exploring cybersecurity through TryHackMe, strengthening my understanding of networking, Linux fundamentals, web technologies, and security concepts. (Rank: Top 30%)
+- Interested in application security, systems security, and secure software engineering
 
 ### Tech Stack
 
