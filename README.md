@@ -10,7 +10,7 @@ Focused on secure Software development, Systems programming, and Cybersecurity.
 
 - Building projects with C++, Java, C#, Python, and web technologies
 - Strengthening foundations in DSA, memory management, and software design
-- Exploring cybersecurity through TryHackMe, strengthening my understanding of networking, Linux fundamentals, web technologies, and security concepts. (Rank: Top 30%)
+- Exploring cybersecurity through TryHackMe, strengthening my understanding of networking, Linux fundamentals, web technologies, and security concepts. ( **Rank: Top 25%** )
 - Interested in application security, systems security, and secure software engineering
 
 ### Tech Stack
