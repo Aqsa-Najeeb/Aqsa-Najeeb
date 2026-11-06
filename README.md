@@ -33,7 +33,7 @@ Focused on secure Software development, Systems programming, and Cybersecurity.
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Aqsa-Najeeb&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
-<img height="250" width= "360" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Aqsa-Najeeb&layout=compact&theme=tokyonight&title_color=4f46e5&icon_color=4f46e5&hide_border=true&bg_color=00000000&langs_count=11" alt="top langs" />
+<img height="250" width= "360" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Aqsa-Najeeb&layout=compact&theme=tokyonight&title_color=4f46e5&icon_color=4f46e5&hide_border=true&bg_color=00000000&langs_count=13" alt="top langs" />
 
 ### Contribution Graph
 
