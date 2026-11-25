@@ -1,10 +1,9 @@
-<p align="center">
-  <a href="https://github.com/Aqsa-Najeeb">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=442&text=Aqsa%20Najeeb" alt="Aqsa Najeeb" />
-  </a>
-</p>
+
+
+<center><img src="https://cdn-images.tryhackme.com/public-profile/AqsaNajeeb/badge-dark-3ab780e86caa.png" alt="AqsaNajeeb's TryHackMe badge." width="700"></center>
 
 ---
+
 
 Focused on secure Software development, Systems programming, and Cybersecurity.
 
