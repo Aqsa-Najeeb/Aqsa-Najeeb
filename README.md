@@ -1,6 +1,6 @@
 
 
-<center><img src="https://cdn-images.tryhackme.com/public-profile/AqsaNajeeb/badge-dark-3ab780e86caa.png" alt="AqsaNajeeb's TryHackMe badge." width="700"></center>
+<p align="center"><img src="https://cdn-images.tryhackme.com/public-profile/AqsaNajeeb/badge-dark-3ab780e86caa.png" alt="AqsaNajeeb's TryHackMe badge." width="500"></p>
 
 ---
 
